@@ -1,4 +1,4 @@
-#  
+#  Fantastical for macOS professional Plugin: calendar integration & voice notes offers the most advanced Fantastical for macOS plugin, with calendar integration and voice notes.
 
 
 
